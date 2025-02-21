@@ -1,4 +1,11 @@
-## Hi there, I am Shreya! 👋
+<h1 align="center"> Hi there, I am Shreya Balakrishna! 👋
+
+<h1 align="center">💻 My Tech Stack</h1>
+
+---
+
+## MSCS @UMass Amherst  
+
 
 <!--
 **shrxyo/shrxyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
