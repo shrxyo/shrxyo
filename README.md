@@ -1,7 +1,5 @@
 <h1 align="center"> Hi there, I am Shreya Balakrishna! 👋
 
-<h1 align="center">💻 My Tech Stack</h1>
-
 ---
 
 ## MSCS @UMass Amherst  
