@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ### 💻 My Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,electron,aws,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,html,css,electron,aws,figma)](https://skillicons.dev)
 
